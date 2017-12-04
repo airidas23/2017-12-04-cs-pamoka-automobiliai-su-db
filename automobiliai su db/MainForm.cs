@@ -41,5 +41,9 @@ namespace automobiliai_su_db
             }
         }
 
+        private void iseitiToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }
